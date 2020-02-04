@@ -1,6 +1,6 @@
 package com.company;
 
-public class Car extends Vehicle {
+public final class Car extends Vehicle{
     private String make;
     private int year;
     private String model;
@@ -49,17 +49,24 @@ public class Car extends Vehicle {
         this.model = model;
     }
 
+   public void load(){
+       System.out.println("Car can load ...");
+
+    }
+
+
+    @Override
     public String start() {
         return "The " +  this.getMake() + " " + this.getModel()+" is starting";
     }
-    public String accelerate() {
 
+    @Override
+    public String accelerate() {
         return "The " + this.getMake() +" " + this.getModel()+ " is accelerating";
     }
 
+    @Override
     public String stop() {
         return "The " + this.getMake() +" " + this.getModel()+ " is stopped";
     }
-
-
 }

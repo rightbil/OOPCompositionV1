@@ -31,8 +31,10 @@ public class CarApp {
         for(Car c : cars) {
             System.out.println(car.start());
             System.out.println(car.accelerate());
-            car.getSpeed();
             System.out.println(car.stop());
+            car.load();
+            car.getSpeed();
         }
+
     }
 }
