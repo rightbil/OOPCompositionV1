@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec3eca3f-fffd-4a2f-9fbe-2c00ee9d00e0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/CompositionBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Education.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarApp/com/company/CarApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarApp/com/company/CarApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/CarApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/CarApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Boat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CarApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/CarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Vehicle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580845978728</updated>
-      <workItem from="1580845981418" duration="5561000" />
+      <workItem from="1580845981418" duration="6810000" />
     </task>
     <servers />
   </component>
@@ -93,22 +97,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="285" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580850775544" />
-    <state width="900" height="279" key="GridCell.Tab.0.bottom" timestamp="1580851000467">
+    <state width="900" height="279" key="GridCell.Tab.0.bottom" timestamp="1580851638104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580851000467" />
-    <state width="900" height="279" key="GridCell.Tab.0.center" timestamp="1580851000467">
+    <state width="900" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580851638104" />
+    <state width="900" height="279" key="GridCell.Tab.0.center" timestamp="1580851638104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580851000467" />
-    <state width="900" height="279" key="GridCell.Tab.0.left" timestamp="1580851000467">
+    <state width="900" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580851638104" />
+    <state width="900" height="279" key="GridCell.Tab.0.left" timestamp="1580851638104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580851000467" />
-    <state width="900" height="279" key="GridCell.Tab.0.right" timestamp="1580851000467">
+    <state width="900" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580851638104" />
+    <state width="900" height="279" key="GridCell.Tab.0.right" timestamp="1580851638104">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="900" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580851000467" />
+    <state width="900" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580851638104" />
     <state x="184" y="422" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580846355712">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
